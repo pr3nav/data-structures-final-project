@@ -1,6 +1,7 @@
 **CS61BL Data Structures Project**
 
 **Overview**
+
 This project is a hands-on Java implementation of core data structures and algorithms. The goal was to understand how common structures actually work under the hood by building them from scratch, rather than relying on built-in libraries.
 
 The focus throughout the project was on writing clean, correct code and making thoughtful decisions about efficiency and structure.
