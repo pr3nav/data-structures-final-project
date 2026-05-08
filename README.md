@@ -1,4 +1,4 @@
-**CS61BL Data Structures Project**
+**UC Berkeley, CS61BL Data Structures Project**
 
 **Overview**
 
